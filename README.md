@@ -1,6 +1,4 @@
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## CP info
 
 [forks-shield]: https://img.shields.io/github/forks/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline.svg?style=for-the-badge
 [forks-url]: https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline/network/members
